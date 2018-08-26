@@ -1,0 +1,7 @@
+**/*.class
+**/*.swp
+gradle-4.9
+gradle-4.9-bin.zip
+build
+.gradle
+gradle
