@@ -12,7 +12,6 @@
     <ol>
         <li>Make sure that you are able to build the project using the Gradle wrapper supplied. 
             You may need to generate your own Gradle wrapper.
-            I supplied the "gradle-4.9-bin.zip" for that occassion. 
             Note that I have supplied a shell script that refers to the gradle wrapper stored at the root level of the project.
             To run this shell script simply run "bash build.sh". This will run the gradle build to generate a jar file as well as run the unit tests written.</li>
         <li>Familiarze yourself with the code base. 
