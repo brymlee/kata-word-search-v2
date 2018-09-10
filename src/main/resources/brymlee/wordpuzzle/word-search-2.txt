@@ -1,0 +1,16 @@
+BARKER,BOB,HANKS,PAM,RANDY,TOM
+W,P,R,N,C,J,E,R,N,L,C,Y,B,D,T
+D,H,Z,W,B,T,B,P,D,Z,K,A,R,R,F
+K,V,D,J,I,Y,I,M,G,S,R,T,G,A,I
+K,B,R,N,R,Z,Z,U,S,K,N,A,H,P,G
+G,Y,H,X,M,Y,P,Q,E,Q,R,C,Z,D,P
+I,S,X,V,F,J,F,R,H,T,G,F,L,Z,P
+J,U,E,W,G,C,Y,P,A,M,H,L,W,M,T
+N,R,F,G,F,K,B,D,B,Z,R,T,N,F,I
+V,P,H,M,P,Z,M,H,N,J,E,L,T,B,C
+Y,S,X,P,R,H,M,N,H,A,H,X,Y,B,H
+N,O,E,L,N,H,Z,B,Y,O,R,W,Y,C,B
+S,J,X,P,R,M,E,S,N,V,A,L,W,O,Z
+Q,K,S,I,O,E,F,M,U,W,H,B,B,Q,O
+P,A,L,T,M,E,M,U,P,Q,W,O,L,M,X
+U,P,F,C,F,P,V,U,T,N,S,B,K,K,M

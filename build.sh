@@ -1,0 +1,2 @@
+./gradlew fatJar
+./gradlew test
