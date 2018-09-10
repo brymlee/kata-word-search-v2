@@ -94,7 +94,7 @@ public class WordSearchService{
         }
     }
 
-    protected static String getFileAsStringFromPackage(final Class<?> clazz, final String fileName) throws IOException{
+    public static String getFileAsStringFromPackage(final Class<?> clazz, final String fileName) throws IOException{
         final InputStream inputStream = clazz.getResourceAsStream(fileName);
         final byte[] bytes = new byte[inputStream.available()];
         inputStream.read(bytes);
